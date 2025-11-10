@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package id.ac.unpas.pp2_c_233040103.modul6;
+package id.ac.unpas.pp2_c_233040103.modul06;
 
 import java.awt.BorderLayout;
 import javax.swing.JButton;
